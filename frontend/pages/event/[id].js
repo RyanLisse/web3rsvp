@@ -218,6 +218,6 @@ export async function getServerSideProps(context) {
   };
 }
 
-export const config = {
-  unstable_excludeFiles: ["public/**/*"],
-};
+// export const config = {
+//   unstable_excludeFiles: ["public/**/*"],
+// };
